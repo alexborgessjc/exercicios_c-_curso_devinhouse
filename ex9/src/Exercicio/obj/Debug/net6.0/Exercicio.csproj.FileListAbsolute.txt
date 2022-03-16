@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\bin\Debug\net6.0\Exercicio.deps.json
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\bin\Debug\net6.0\Exercicio.dll
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\bin\Debug\net6.0\Exercicio.pdb
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\Exercicio.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\Exercicio.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\Exercicio.AssemblyInfo.cs
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\Exercicio.dll
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\refint\Exercicio.dll
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\Exercicio.pdb
+C:\Users\Alex\Desktop\DEVinHouse\Modulo 2\Semana 3\exercicios\ex9\src\Exercicio\obj\Debug\net6.0\ref\Exercicio.dll
